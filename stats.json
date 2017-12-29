@@ -1,0 +1,78 @@
+{
+  "assetsByChunkName": {
+    "path---integrate-with-other-monitoring-systems": [
+      "path---integrate-with-other-monitoring-systems-1bafa24e76b5e689e219.js",
+      "path---integrate-with-other-monitoring-systems-1bafa24e76b5e689e219.js.map"
+    ],
+    "component---src-templates-doc-jsx": [
+      "component---src-templates-doc-jsx-ea4d6988f1d9fc3bfc73.js",
+      "component---src-templates-doc-jsx-ea4d6988f1d9fc3bfc73.js.map"
+    ],
+    "path---create-a-new-admin-user": [
+      "path---create-a-new-admin-user-71f0aaab4d2b40d07dd4.js",
+      "path---create-a-new-admin-user-71f0aaab4d2b40d07dd4.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-3921e3d9f98d0da066b7.js",
+      "component---src-layouts-index-jsx-3921e3d9f98d0da066b7.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---contributing": [
+      "path---contributing-6ed19769d04f785034c7.js",
+      "path---contributing-6ed19769d04f785034c7.js.map"
+    ],
+    "path---index": [
+      "path---index-8ca17d1b488dac3e740a.js",
+      "path---index-8ca17d1b488dac3e740a.js.map"
+    ],
+    "path---upgrading-lamb-status": [
+      "path---upgrading-lamb-status-d9a2ff5c43058ffdbeac.js",
+      "path---upgrading-lamb-status-d9a2ff5c43058ffdbeac.js.map"
+    ],
+    "path---set-up-custom-domain": [
+      "path---set-up-custom-domain-c06c2b1eaea047ea3217.js",
+      "path---set-up-custom-domain-c06c2b1eaea047ea3217.js.map"
+    ],
+    "path---cost-estimate": [
+      "path---cost-estimate-91db592fd56afa47e1df.js",
+      "path---cost-estimate-91db592fd56afa47e1df.js.map"
+    ],
+    "commons": [
+      "commons-f1ef510847f79fa0a799.js",
+      "commons-f1ef510847f79fa0a799.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-2bcaabe894cbddb157fd.js",
+      "component---src-pages-index-jsx-2bcaabe894cbddb157fd.js.map"
+    ],
+    "path---set-up-the-development-environment": [
+      "path---set-up-the-development-environment-f2061ac919565394a836.js",
+      "path---set-up-the-development-environment-f2061ac919565394a836.js.map"
+    ],
+    "app": [
+      "app-10827642370f8f7da145.js",
+      "build-js-styles.css",
+      "app-10827642370f8f7da145.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---supported-aws-regions": [
+      "path---supported-aws-regions-300c812de97e439854dc.js",
+      "path---supported-aws-regions-300c812de97e439854dc.js.map"
+    ],
+    "path---get-started": [
+      "path---get-started-b035331719bf4a58a5af.js",
+      "path---get-started-b035331719bf4a58a5af.js.map"
+    ]
+  }
+}
