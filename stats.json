@@ -5,8 +5,8 @@
       "path---integrate-with-other-monitoring-systems-c6b6b1f5ed63cf4e6f16.js.map"
     ],
     "component---src-templates-doc-jsx": [
-      "component---src-templates-doc-jsx-3e7c72e246d87ce2ac17.js",
-      "component---src-templates-doc-jsx-3e7c72e246d87ce2ac17.js.map"
+      "component---src-templates-doc-jsx-4a40e04d389a0acf74e1.js",
+      "component---src-templates-doc-jsx-4a40e04d389a0acf74e1.js.map"
     ],
     "path---create-a-new-admin-user": [
       "path---create-a-new-admin-user-4767203c9cdefa2a9284.js",
@@ -17,8 +17,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-c4a2d83bf84181cccd97.js",
-      "component---src-layouts-index-jsx-c4a2d83bf84181cccd97.js.map"
+      "component---src-layouts-index-jsx-7f656dcf374d20d81a6c.js",
+      "component---src-layouts-index-jsx-7f656dcf374d20d81a6c.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,17 +53,17 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-e49938dd2ef4d6e2022e.js",
-      "component---src-pages-index-jsx-e49938dd2ef4d6e2022e.js.map"
+      "component---src-pages-index-jsx-a096be3720c7a9bbfff2.js",
+      "component---src-pages-index-jsx-a096be3720c7a9bbfff2.js.map"
     ],
     "path---set-up-the-development-environment": [
       "path---set-up-the-development-environment-149d083ae0cc6e674c0e.js",
       "path---set-up-the-development-environment-149d083ae0cc6e674c0e.js.map"
     ],
     "app": [
-      "app-d61da284e961762dd37c.js",
+      "app-2546599a963de5c4aa7a.js",
       "build-js-styles.css",
-      "app-d61da284e961762dd37c.js.map",
+      "app-2546599a963de5c4aa7a.js.map",
       "build-js-styles.css.map"
     ],
     "path---supported-aws-regions": [
