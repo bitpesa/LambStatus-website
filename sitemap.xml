@@ -4,11 +4,11 @@
 <url> <loc>https://lambstatus.github.io/contributing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/cost-estimate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/create-a-new-admin-user</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lambstatus.github.io/get-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lambstatus.github.io/set-up-custom-domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lambstatus.github.io/integrate-with-other-monitoring-systems</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/set-up-the-development-environment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lambstatus.github.io/integrate-with-other-monitoring-systems</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lambstatus.github.io/get-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/supported-aws-regions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lambstatus.github.io/set-up-custom-domain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/upgrading-lamb-status</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lambstatus.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
