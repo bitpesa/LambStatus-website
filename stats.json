@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---integrate-with-other-monitoring-systems": [
-      "path---integrate-with-other-monitoring-systems-ec47162a71975fadc664.js",
-      "path---integrate-with-other-monitoring-systems-ec47162a71975fadc664.js.map"
+      "path---integrate-with-other-monitoring-systems-6848e30bdfa4e93f652e.js",
+      "path---integrate-with-other-monitoring-systems-6848e30bdfa4e93f652e.js.map"
     ],
     "component---src-templates-doc-jsx": [
       "component---src-templates-doc-jsx-3f2d62956f37734c371a.js",
       "component---src-templates-doc-jsx-3f2d62956f37734c371a.js.map"
     ],
     "path---create-a-new-admin-user": [
-      "path---create-a-new-admin-user-2c730b48290c25c98624.js",
-      "path---create-a-new-admin-user-2c730b48290c25c98624.js.map"
+      "path---create-a-new-admin-user-cffbef5bc705f1faaa88.js",
+      "path---create-a-new-admin-user-cffbef5bc705f1faaa88.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -25,24 +25,24 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---contributing": [
-      "path---contributing-1f17b1c961db622e1151.js",
-      "path---contributing-1f17b1c961db622e1151.js.map"
+      "path---contributing-561b4dcfd2e061c8c516.js",
+      "path---contributing-561b4dcfd2e061c8c516.js.map"
     ],
     "path---index": [
-      "path---index-e5264d9d91b8399e8fc9.js",
-      "path---index-e5264d9d91b8399e8fc9.js.map"
+      "path---index-fb299baf5663d70464be.js",
+      "path---index-fb299baf5663d70464be.js.map"
     ],
     "path---upgrading-lamb-status": [
-      "path---upgrading-lamb-status-a385125c8f5f87059a0b.js",
-      "path---upgrading-lamb-status-a385125c8f5f87059a0b.js.map"
+      "path---upgrading-lamb-status-8fad9ab55634945ef021.js",
+      "path---upgrading-lamb-status-8fad9ab55634945ef021.js.map"
     ],
     "path---set-up-custom-domain": [
-      "path---set-up-custom-domain-981bd22aa9b83de5a23c.js",
-      "path---set-up-custom-domain-981bd22aa9b83de5a23c.js.map"
+      "path---set-up-custom-domain-4672ea5035200422e40f.js",
+      "path---set-up-custom-domain-4672ea5035200422e40f.js.map"
     ],
     "path---cost-estimate": [
-      "path---cost-estimate-6aa89afb6ecd91737487.js",
-      "path---cost-estimate-6aa89afb6ecd91737487.js.map"
+      "path---cost-estimate-38158c3a8505510b06b5.js",
+      "path---cost-estimate-38158c3a8505510b06b5.js.map"
     ],
     "commons": [
       "commons-f1ef510847f79fa0a799.js",
@@ -53,26 +53,26 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-763db0e46adae2072fd6.js",
-      "component---src-pages-index-jsx-763db0e46adae2072fd6.js.map"
+      "component---src-pages-index-jsx-35e27c4918e4c07f190b.js",
+      "component---src-pages-index-jsx-35e27c4918e4c07f190b.js.map"
     ],
     "path---set-up-the-development-environment": [
-      "path---set-up-the-development-environment-5771c10cdb5b43456ba5.js",
-      "path---set-up-the-development-environment-5771c10cdb5b43456ba5.js.map"
+      "path---set-up-the-development-environment-80354c9a9f2fe7a56ad3.js",
+      "path---set-up-the-development-environment-80354c9a9f2fe7a56ad3.js.map"
     ],
     "app": [
-      "app-1ef52e5cbffe7642e16f.js",
+      "app-d80a42564565678e9aaf.js",
       "build-js-styles.css",
-      "app-1ef52e5cbffe7642e16f.js.map",
+      "app-d80a42564565678e9aaf.js.map",
       "build-js-styles.css.map"
     ],
     "path---supported-aws-regions": [
-      "path---supported-aws-regions-821f2e0faeb37f22ad3a.js",
-      "path---supported-aws-regions-821f2e0faeb37f22ad3a.js.map"
+      "path---supported-aws-regions-d4b7b09af62bbc79872b.js",
+      "path---supported-aws-regions-d4b7b09af62bbc79872b.js.map"
     ],
     "path---get-started": [
-      "path---get-started-760a8035fd9ea6f6c564.js",
-      "path---get-started-760a8035fd9ea6f6c564.js.map"
+      "path---get-started-258c24fe5a4ab1f89cc5.js",
+      "path---get-started-258c24fe5a4ab1f89cc5.js.map"
     ]
   }
 }
