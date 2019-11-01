@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
     "path---integrate-with-other-monitoring-systems": [
-      "path---integrate-with-other-monitoring-systems-09f07a9e5a69e7f34296.js",
-      "path---integrate-with-other-monitoring-systems-09f07a9e5a69e7f34296.js.map"
+      "path---integrate-with-other-monitoring-systems-c33fe3a72cf03706de5a.js",
+      "path---integrate-with-other-monitoring-systems-c33fe3a72cf03706de5a.js.map"
     ],
     "component---src-templates-doc-jsx": [
-      "component---src-templates-doc-jsx-5941bd26363ddb22b7c1.js",
-      "component---src-templates-doc-jsx-5941bd26363ddb22b7c1.js.map"
+      "component---src-templates-doc-jsx-7df5d4dd45b22b5cf3f3.js",
+      "component---src-templates-doc-jsx-7df5d4dd45b22b5cf3f3.js.map"
     ],
     "component---src-pages-donate-jsx": [
-      "component---src-pages-donate-jsx-b90e421de222b9ac3954.js",
-      "component---src-pages-donate-jsx-b90e421de222b9ac3954.js.map"
+      "component---src-pages-donate-jsx-d2b65d25fac3cc959e09.js",
+      "component---src-pages-donate-jsx-d2b65d25fac3cc959e09.js.map"
     ],
     "path---create-a-new-admin-user": [
-      "path---create-a-new-admin-user-0c39d469428fd52cbc96.js",
-      "path---create-a-new-admin-user-0c39d469428fd52cbc96.js.map"
+      "path---create-a-new-admin-user-be5513eb7d1ee937866a.js",
+      "path---create-a-new-admin-user-be5513eb7d1ee937866a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-6b18b2cc7d3e24d0dd5a.js",
-      "component---src-layouts-index-jsx-6b18b2cc7d3e24d0dd5a.js.map"
+      "component---src-layouts-index-jsx-65507b10b56ce526a7be.js",
+      "component---src-layouts-index-jsx-65507b10b56ce526a7be.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -33,24 +33,24 @@
       "path---donate-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---contributing": [
-      "path---contributing-2fa2e3d28daabd7e4b1c.js",
-      "path---contributing-2fa2e3d28daabd7e4b1c.js.map"
+      "path---contributing-ebc472ef2bf4b52285a8.js",
+      "path---contributing-ebc472ef2bf4b52285a8.js.map"
     ],
     "path---index": [
-      "path---index-52547c65316b2b6be3cd.js",
-      "path---index-52547c65316b2b6be3cd.js.map"
+      "path---index-850ed44f2fb419ddcebe.js",
+      "path---index-850ed44f2fb419ddcebe.js.map"
     ],
     "path---upgrading-lamb-status": [
-      "path---upgrading-lamb-status-2d855c08b9b8f0f818ed.js",
-      "path---upgrading-lamb-status-2d855c08b9b8f0f818ed.js.map"
+      "path---upgrading-lamb-status-7e0f842a737ff08df56b.js",
+      "path---upgrading-lamb-status-7e0f842a737ff08df56b.js.map"
     ],
     "path---set-up-custom-domain": [
-      "path---set-up-custom-domain-0f39ac429fca2700d9b5.js",
-      "path---set-up-custom-domain-0f39ac429fca2700d9b5.js.map"
+      "path---set-up-custom-domain-1d07101ce4d5af1e5768.js",
+      "path---set-up-custom-domain-1d07101ce4d5af1e5768.js.map"
     ],
     "path---cost-estimate": [
-      "path---cost-estimate-f34a0d21e61286fc1fa7.js",
-      "path---cost-estimate-f34a0d21e61286fc1fa7.js.map"
+      "path---cost-estimate-e9ab263aa471b1940d4e.js",
+      "path---cost-estimate-e9ab263aa471b1940d4e.js.map"
     ],
     "commons": [
       "commons-8443fbccb84bf07a8848.js",
@@ -61,34 +61,34 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-16cce71dc4c69d57143d.js",
-      "component---src-pages-index-jsx-16cce71dc4c69d57143d.js.map"
+      "component---src-pages-index-jsx-b5a3b081572aa24453d4.js",
+      "component---src-pages-index-jsx-b5a3b081572aa24453d4.js.map"
     ],
     "path---set-up-the-development-environment": [
-      "path---set-up-the-development-environment-008732485a6347c6b377.js",
-      "path---set-up-the-development-environment-008732485a6347c6b377.js.map"
+      "path---set-up-the-development-environment-2c29e288fa15f32cdfe3.js",
+      "path---set-up-the-development-environment-2c29e288fa15f32cdfe3.js.map"
     ],
     "path---set-up-email-notification": [
-      "path---set-up-email-notification-cad310b577362efd0f7d.js",
-      "path---set-up-email-notification-cad310b577362efd0f7d.js.map"
+      "path---set-up-email-notification-ba71e4102078405e0a17.js",
+      "path---set-up-email-notification-ba71e4102078405e0a17.js.map"
     ],
     "app": [
-      "app-fbcb58c6f9989f15edce.js",
+      "app-49d040e181bb1d66d9f4.js",
       "build-js-styles.css",
-      "app-fbcb58c6f9989f15edce.js.map",
+      "app-49d040e181bb1d66d9f4.js.map",
       "build-js-styles.css.map"
     ],
     "path---supported-aws-regions": [
-      "path---supported-aws-regions-05b58b56ee305c0002ba.js",
-      "path---supported-aws-regions-05b58b56ee305c0002ba.js.map"
+      "path---supported-aws-regions-b730571bc4b5e4e1716a.js",
+      "path---supported-aws-regions-b730571bc4b5e4e1716a.js.map"
     ],
     "path---get-started": [
-      "path---get-started-3c9371e25e6123ce8087.js",
-      "path---get-started-3c9371e25e6123ce8087.js.map"
+      "path---get-started-22b5fc822dec5f40d348.js",
+      "path---get-started-22b5fc822dec5f40d348.js.map"
     ],
     "path---set-up-custom-http-s-monitoring": [
-      "path---set-up-custom-http-s-monitoring-e3e37db47b3898146062.js",
-      "path---set-up-custom-http-s-monitoring-e3e37db47b3898146062.js.map"
+      "path---set-up-custom-http-s-monitoring-bd6ac76743c7e713fe5f.js",
+      "path---set-up-custom-http-s-monitoring-bd6ac76743c7e713fe5f.js.map"
     ]
   }
 }
